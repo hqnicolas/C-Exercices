@@ -4,11 +4,10 @@
 using namespace std;
 
 int main() {
-	setlocale(LC_ALL, "portuguese");
 	string name;
     int idade;
     
-    // Solicita entrada de dados do usu·rio
+    // Solicita entrada de dados do usu√°rio
     cout << "Digite seu nome: ";
     getline(std::cin, name);
     
@@ -17,7 +16,7 @@ int main() {
     cin.ignore(); // Para remover o caractere de nova linha do buffer
 
     // exibe uma mensagem  final
-    cout << "Ol·, " << name << "! VocÍ tem " << idade << " anos." << std::endl;
+    cout << "Ol√°, " << name << "! Voc√™ tem " << idade << " anos." << std::endl;
     system("PAUSE");
     
     return 0;
