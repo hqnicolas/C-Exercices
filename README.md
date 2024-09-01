@@ -19,4 +19,8 @@ Publicando aqui meu Hello World em C++.
 - [Exercicio03lista05.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista5/exercicio3/main.cpp) ordenados de forma crescente
 - [Exercicio04lista05.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista5/exercicio4/main.cpp) debite do saldo o valor solicitado
 - [Exercicio05lista05.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista5/exercicio5/main.cpp) sacar o limite com o saldo
-
+# [Lista 6: Funções](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista%20de%20Exerc%C3%ADcios%2006.pdf)
+- [Exercicio01lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio1/main.cpp) a função trocar
+- [Exercicio02lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio2/main.cpp) dois números e, opcionalmente, um operador
+- [Exercicio03lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio3/main.cpp) área de diferentes formas
+	geométricas
