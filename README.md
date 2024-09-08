@@ -22,5 +22,14 @@ Publicando aqui meu Hello World em C++.
 # [Lista 6: Funções](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista%20de%20Exerc%C3%ADcios%2006.pdf)
 - [Exercicio01lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio1/main.cpp) a função trocar
 - [Exercicio02lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio2/main.cpp) dois números e, opcionalmente, um operador
-- [Exercicio03lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio3/main.cpp) área de diferentes formas
-	geométricas
+- [Exercicio03lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio3/main.cpp) área de diferentes formas geométricas
+# Vetores e Matrizes bidimensional em C++
+- [Exemplo1.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/aula3/exemplo01/main.cpp) percorrendo um vetor 
+- [Exemplo2.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/aula3/exemplo02/main.cpp) soma dos elementos do vetor
+- [Exemplo3.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/aula3/exemplo03/main.cpp) impressão da matriz
+- [Exemplo4.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/aula3/exemplo04/main.cpp) uma matriz 3x3
+# [Lista 7: Matrizes e Vetores](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista%20de%20Exerc%C3%ADcios%2007.pdf)
+- [Exercicio01lista07.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista7/ex01lista07/main.cpp) na tela cada valor do vetor
+- [Exercicio02lista07.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista7/ex02lista07/main.cpp) 10 números inteiros
+- [Exercicio03lista07.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista7/ex03lista07/main.cpp) uma matriz de 3x3 elementos
+- [Exercicio04lista07.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista7/ex04lista07/main.cpp) gere um vetor unidimensional
