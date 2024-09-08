@@ -23,7 +23,7 @@ Publicando aqui meu Hello World em C++.
 - [Exercicio01lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio1/main.cpp) a função trocar
 - [Exercicio02lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio2/main.cpp) dois números e, opcionalmente, um operador
 - [Exercicio03lista06.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista6/exercicio3/main.cpp) área de diferentes formas geométricas
-# [Vetores e Matrizes bidimensional em C++](https://github.com/hqnicolas/C-Exercices/tree/main/aula3)
+# [Vetores e Matrizes bidimensionais em C++](https://github.com/hqnicolas/C-Exercices/tree/main/aula3)
 - [Exemplo1.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/aula3/exemplo01/main.cpp) percorrendo um vetor 
 - [Exemplo2.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/aula3/exemplo02/main.cpp) soma dos elementos do vetor
 - [Exemplo3.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/aula3/exemplo03/main.cpp) impressão da matriz
