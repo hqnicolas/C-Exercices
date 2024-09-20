@@ -1,0 +1,10 @@
+
+int main() {
+Carro meuCarro; 
+myCarro.marca = "Toyota"; 
+myCarro.modelo = "Corolla"; 
+myCarro.ano = 2020;
+
+myCarro.exibirInfo();
+return 0;
+}

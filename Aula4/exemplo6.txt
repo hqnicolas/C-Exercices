@@ -1,0 +1,17 @@
+class Carro {
+private:
+    string marca;
+    string modelo;
+    int ano;
+
+public:
+    Carro(string m, string mod, int a) : marca(m), modelo(mod), ano(a) {}
+
+    void setMarca(string m) {
+        marca = m;
+    }
+
+    string getMarca() const {
+        return marca;
+    }
+};
