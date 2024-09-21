@@ -33,3 +33,8 @@ Publicando aqui meu Hello World em C++.
 - [Exercicio02lista07.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista7/ex02lista07/main.cpp) 10 números inteiros
 - [Exercicio03lista07.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista7/ex03lista07/main.cpp) uma matriz de 3x3 elementos
 - [Exercicio04lista07.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista7/ex04lista07/main.cpp) gere um vetor unidimensional
+# [Lista 8: Classes o objetos](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista%20de%20Exerc%C3%ADcios%2008.pdf)
+[Exercicio01lista08.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista8/ex01lista08/main.cpp) classe chamada de cidadesBrasil
+[Exercicio02lista08.cpp](https://github.com/hqnicolas/C-Exercices/tree/main/Listas/Lista8/ex02lista08) classe para representar um retângulo
+[Exercicio03lista08.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista8/ex03lista08/main.cpp) classe chamada ContaBancaria
+[Exemplos.txt](https://github.com/hqnicolas/C-Exercices/tree/main/aula4)  Classes o objetos
