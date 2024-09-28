@@ -51,7 +51,7 @@ void ContaCorrente::exibirInfo() {
     cout << "Titular: " << titular_ << endl;
     cout << "Saldo: R$ " << saldo_ << endl;
     cout << "Limite: R$" << limite_ << endl;
-    cout << "Valor dispon�vel para saque: R$" << saldo_ + limite_ << endl;
+    cout << "Valor disponível para saque: R$" << saldo_ + limite_ << endl;
 }
 
 void ContaCorrente::sacar(float valor) {
@@ -59,7 +59,7 @@ void ContaCorrente::sacar(float valor) {
         saldo_ -= valor;
         cout << "Saque realizado com sucesso!" << endl;
     } else {
-        cout << "N�o foi poss�vel realizar o saque." << endl;
+        cout << "Não foi possível realizar o saque." << endl;
     }
 }
 
