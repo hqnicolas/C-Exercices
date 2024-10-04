@@ -43,3 +43,7 @@ Publicando aqui meu Hello World em C++.
 - [Exercicio02lista09.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista9/ex02lista09/main.cpp) classe Pessoa, 03 construtores sobrecarregados
 - [Exercicio03lista09.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista9/ex03lista09/main.cpp) classe DataHora, combinação de data e hora
 - [Exemplos.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista9/Exemplos/main.cpp)  construtor, um método chamado automaticamente
+# [Lista 10: Sobrecarga de uma função](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista%20de%20Exerc%C3%ADcios%2010.pdf)
+- [Exercicio01lista10.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista10/ex01lista10/main.cpp) Sobrecarregue o operador
+- [Exercicio02lista10.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista10/ex02lista10/main.cpp) calcular e imprimir a área e o perímetro utilizando as funções amigas
+- [Exemplos.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista10/Exemplos/main.cpp)  Sobrecarga de uma função
