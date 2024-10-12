@@ -47,3 +47,7 @@ Publicando aqui meu Hello World em C++.
 - [Exercicio01lista10.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista10/ex01lista10/main.cpp) Sobrecarregue o operador
 - [Exercicio02lista10.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista10/ex02lista10/main.cpp) calcular e imprimir a área e o perímetro utilizando as funções amigas
 - [Exemplos.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista10/Exemplos/main.cpp)  Sobrecarga de uma função
+
+# [Lista 11: Herança](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista%20de%20Exerc%C3%ADcios%2011.pdf)
+- [Exercicio01lista11.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista11/ex01lista11/main.cpp) instâncias dos funcionários e calcule seus salários finais
+- [Exercicio02lista11.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista11/ex02lista11/main.cpp) instâncias de contas correntes e poupanças
