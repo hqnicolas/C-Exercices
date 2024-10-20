@@ -51,3 +51,7 @@ Publicando aqui meu Hello World em C++.
 # [Lista 11: Herança](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista%20de%20Exerc%C3%ADcios%2011.pdf)
 - [Exercicio01lista11.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista11/ex01lista11/main.cpp) instâncias dos funcionários e calcule seus salários finais
 - [Exercicio02lista11.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista11/ex02lista11/main.cpp) instâncias de contas correntes e poupanças
+
+# [Lista 12: Polimorfismo e Funções Virtuais](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista%20de%20Exerc%C3%ADcios%2012.pdf)
+- [Exercicio01lista12.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista12/ex02lista12/main.cpp) classe abstrata processPayment
+- [Exercicio02lista12.cpp](https://github.com/hqnicolas/C-Exercices/blob/main/Listas/Lista12/ex01lista12/main.cpp) classe abstrata figuras geométricas
